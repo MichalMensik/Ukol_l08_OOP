@@ -1,0 +1,5 @@
+Třída: 4.C
+Seznam studentů:
+1. Svoboda Petr
+2. Říha Milan
+3. Nový Jindřich
